@@ -9,4 +9,4 @@ Users can write in appointment details in the appropriate time blocks. These tim
 <img src="Assets\work-day-scheduler-screenshot.png" alt="screenshot of work day calender scheduler" height="500px" width="300px"/>   
 
 
-View Application: [Work Day Scheduler](https://logan-bonnesen.github.io/03-Password-Generator)
+View Application: [Work Day Scheduler](https://logan-bonnesen.github.io/05-work-day-scheduler/)
